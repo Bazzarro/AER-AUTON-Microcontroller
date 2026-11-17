@@ -1,0 +1,18 @@
+# Build output (Debug/Release are the default config names CubeIDE creates)
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+
+# macOS junk
+.DS_Store
+
+# Editor-specific, not project config
+.vscode/
